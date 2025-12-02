@@ -74,21 +74,21 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <div align="center">
   <br>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/66ee5a84-1749-44af-9be4-68365c3e62ce" width="200">
+    <img src="https://github.com/user-attachments/assets/66ee5a84-1749-44af-9be4-68365c3e62ce" width="170">
   </a>
 </div>
 
 ## Citation
 
 ```bibtex
-@software{
-    Dalageorgos_twincat-virtual-agv_2024,
-    author = {Dalageorgos, Konstantinos},
-    license = {CC-BY-NC-SA-4.0},
-    month = jun,
-    title = {{twincat-virtual-agv}},
-    url = {https://github.com/Dalageo/twincat-virtual-agv},
-    version = {1.0.0},
-    year = {2024},
-    publisher = {GitHub}
- }
+@software{Dalageorgos_twincat-virtual-agv_2024,
+  author = {Dalageorgos, Konstantinos},
+  title = {twincat-virtual-agv},
+  publisher = {GitHub},
+  year = {2024},
+  month = {June},
+  version = {1.0.0},
+  url = {https://github.com/Dalageo/twincat-virtual-agv},
+  license = {CC-BY-NC-SA-4.0},
+  note = {Source code repository},
+}
