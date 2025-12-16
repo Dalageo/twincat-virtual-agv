@@ -45,7 +45,7 @@ The AGV movement is enabled by a specific handshake protocol between the PLC and
    
 2. **Clone the repository:**
    ```sh
-   git clone https://github.com/Dalageo/TwinCAT-VirtualAGV.git
+   git clone https://github.com/Dalageo/twincat-virtual-agv.git
    
 3. **Navigate to the cloned directory and execute the `TwinCAT Virtual AGV.sln` solution file.**
 
